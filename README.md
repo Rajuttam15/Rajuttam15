@@ -1,4 +1,4 @@
-![blockchain-basics-completed](https://github.com/user-attachments/assets/73f3cb75-870e-4aee-a99a-d3936c0e2a8b)# 👋 Hi, I'm Raj (@Rajuttam15)
+ 👋 Hi, I'm Raj (@Rajuttam15)
 
 🚀 **Developer | Blockchain Enthusiast | Problem Solver**
 
@@ -14,9 +14,8 @@
 ## 💻 Tech Stack  
 
 ### Languages & Tools:  
-<p align="center" background-color="white">
+<p align="center">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/solidity.png" bg-color="white" alt="Solidity" />
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
   <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=024" alt="Ether.js" width="48" height="48" />
