@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Raj (@Rajuttam15)
+![blockchain-basics-completed](https://github.com/user-attachments/assets/73f3cb75-870e-4aee-a99a-d3936c0e2a8b)# 👋 Hi, I'm Raj (@Rajuttam15)
 
 🚀 **Developer | Blockchain Enthusiast | Problem Solver**
 
@@ -16,7 +16,7 @@
 ### Languages & Tools:  
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/solidity.png" alt="Solidity" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/solidity.png" bg-color="white" alt="Solidity" />
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
   <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=024" alt="Ether.js" width="48" height="48" />
@@ -57,14 +57,14 @@
 ---
 
 ## 🔥 Top Languages  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajuttam15&layout=compact&theme=vision-friendly-dark&langs_count=5&hide=html,css&custom_title=Top%20Languages)](https://github.com/anuraghazra/github-readme-stats)
+[![JAVA, Solidity](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajuttam15&layout=compact&theme=vision-friendly-dark&langs_count=5&hide=html,css&custom_title=Top%20Languages)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## 🏆 Achievements  
 - **Blockchain Basics Certificate**  
-  ![Blockchain Basics Certificate](https://github.com/<your-username>/<your-repository>/blob/main/blockchain-basics-completed.jpeg)
-
+  ![blockchain-basics-completed](https://github.com/user-attachments/assets/2311bb9e-af08-41f9-96ea-825ab547d5bc)
+- ![java_basic certificate.]()
 - **Leader:** Decentralized File System project team.  
 - Completed a blockchain project on Ethereum.  
 - Successfully developed and deployed multiple web applications.
