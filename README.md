@@ -6,23 +6,23 @@
 
 ## 👀 About Me  
 - 🔭 I’m passionate about **development**, **blockchain technology**, and creating impactful solutions.  
-- 🌱 Currently diving deep into decentralized file systems with **Solidity**, **React.js**, and **Ether.js**.  
+- 🌱 Currently diving deep into decentralized file systems with Solidity, React.js, and Ether.js.  
 - 💡 Always eager to explore and learn new technologies.  
 
 ---
 
 ## 💻 Tech Stack  
 
-### Programming Languages & Tools:  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
-![Ether.js](https://img.shields.io/badge/Ether.js-%23E34F26.svg?style=for-the-badge&logo=ethereum&logoColor=white)  
-
-### Version Control:  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  
+### Languages & Tools:  
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/solidity.png" alt="Solidity" />
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=024" alt="Ether.js" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" />
+</p>
 
 ---
 
@@ -31,6 +31,21 @@
 - 🌐 I believe in building communities and sharing knowledge.  
 
 ---
+
+## 📫 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/raj-uttam-7539a3295">
+    <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" />
+  </a>
+</p>
+
+---
+
+## 😄 Fun Fact  
+🌟 I started as a **Java enthusiast** and now love exploring **cutting-edge decentralized technologies**!  
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-uttam-7539a3295)  
