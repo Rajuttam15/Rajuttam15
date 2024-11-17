@@ -14,7 +14,7 @@
 ## 💻 Tech Stack  
 
 ### Languages & Tools:  
-<p align="center">
+<p align="center" background-color="white">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
   <img src="https://img.icons8.com/ios-filled/50/000000/solidity.png" bg-color="white" alt="Solidity" />
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
@@ -62,9 +62,8 @@
 ---
 
 ## 🏆 Achievements  
-- **Blockchain Basics Certificate**  
-  ![blockchain-basics-completed](https://github.com/user-attachments/assets/2311bb9e-af08-41f9-96ea-825ab547d5bc)
-- ![java_basic certificate.]()
+- **Blockchain Basics Certificate**
+- **JAVA Basics Certificate
 - **Leader:** Decentralized File System project team.  
 - Completed a blockchain project on Ethereum.  
 - Successfully developed and deployed multiple web applications.
