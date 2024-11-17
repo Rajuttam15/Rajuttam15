@@ -1,12 +1,12 @@
-# 👋 Hi, I’m Raj (@Rajuttam15)  
+# 👋 Hi, I'm Raj (@Rajuttam15)
 
 🚀 **Developer | Blockchain Enthusiast | Problem Solver**
 
 ---
 
 ## 👀 About Me  
-- 🔭 I’m passionate about **development**, **blockchain technology**, and creating impactful solutions.  
-- 🌱 Currently diving deep into decentralized file systems with Solidity, React.js, and Ether.js.  
+- 🔭 I'm passionate about **development**, **blockchain technology**, and creating impactful solutions.  
+- 🌱 Currently diving deep into decentralized file systems with **Solidity**, **React.js**, and **Ether.js**.  
 - 💡 Always eager to explore and learn new technologies.  
 
 ---
@@ -37,7 +37,7 @@
   <a href="https://www.linkedin.com/in/raj-uttam-7539a3295">
     <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:rajuttam2005@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" />
   </a>
 </p>
@@ -47,11 +47,50 @@
 ## 😄 Fun Fact  
 🌟 I started as a **Java enthusiast** and now love exploring **cutting-edge decentralized technologies**!  
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-uttam-7539a3295)  
-[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+---
+
+## 📊 GitHub Stats  
+![GitHub followers](https://img.shields.io/github/followers/Rajuttam15?style=social)  
+![GitHub stars](https://img.shields.io/github/stars/Rajuttam15?style=social)  
+![Profile views](https://komarev.com/ghpvc/?username=Rajuttam15&color=blue)
 
 ---
 
-## 😄 Fun Fact  
-🌟 I started as a **Java enthusiast** and now love exploring **cutting-edge decentralized technologies**!  
+## 🔥 Top Languages  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajuttam15&layout=compact&theme=vision-friendly-dark&langs_count=5&hide=html,css&custom_title=Top%20Languages)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🏆 Achievements  
+- **Blockchain Basics Certificate**  
+  ![Blockchain Basics Certificate](https://github.com/<your-username>/<your-repository>/blob/main/blockchain-basics-completed.jpeg)
+
+- **Leader:** Decentralized File System project team.  
+- Completed a blockchain project on Ethereum.  
+- Successfully developed and deployed multiple web applications.
+
+---
+
+## 🚀 Skills  
+- Blockchain Development  
+- Smart Contract Programming  
+- Web Development  
+- Problem Solving  
+- Team Collaboration  
+
+---
+
+## 📚 Learning  
+Currently learning:  
+- Advanced Solidity concepts  
+- Ethereum Layer 2 solutions  
+- Web3.js integration  
+
+---
+
+## 💬 Quotes  
+> "Code is like humor. When you have to explain it, it's bad." - Cory House  
+
+---
+
+## 👋 Thanks for visiting my profile!
