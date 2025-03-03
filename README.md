@@ -56,7 +56,7 @@
 ---
 
 ## 🔥 Top Languages  
-[![JAVA, Solidity](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajuttam15&layout=compact&theme=vision-friendly-dark&langs_count=5&hide=html,css&custom_title=Top%20Languages)](https://github.com/anuraghazra/github-readme-stats)
+[![JAVA, Solidity]
 
 ---
 
