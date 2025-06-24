@@ -18,9 +18,7 @@
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
-  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=024" alt="Ether.js" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
-  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" />
 </p>
 
 ---
