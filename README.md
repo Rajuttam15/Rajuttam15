@@ -56,7 +56,7 @@
 ---
 
 ## 🔥 Top Languages  
-[![JAVA, Solidity]
+[![JAVA, Solidity, JavaScript, HTML, CSS]
 
 ---
 
