@@ -31,11 +31,17 @@
 
 ## 📫 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/raj-uttam-7539a3295">
+  <a href="https://www.linkedin.com/in/raj-uttam-7539a3295" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" />
   </a>
-  <a href="mailto:rajuttam2005@gmail.com">
+  <a href="mailto:rajuttam2005@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/u/Raj_cscys-1720079/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="48" height="48" />
+  </a>
+  <a href="https://github.com/Rajuttam15" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" />
   </a>
 </p>
 
