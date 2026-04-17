@@ -8,6 +8,7 @@
   <a href="https://github.com/Rajuttam15"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Raj_cscys-1720079/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://synvora-three.vercel.app"><img src="https://img.shields.io/badge/Synvora-Live%20App-1A56DB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://vyaparmitra.lovable.app/"><img src="https://img.shields.io/badge/Vyaparmitra-Live%20App-1A56DB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -23,6 +24,7 @@ Final-year **B.Tech Computer Science** student at Pranveer Singh Institute of Te
 
 I build and ship real things:
 - 🤖 **[Synvora](https://synvora-three.vercel.app)** — a live AI web app with LLM-powered relationship intelligence, deployed on Vercel
+- 🧠 **[Vyaparmitra](https://vyaparmitra.lovable.app/)** — an AI-assisted business platform for customer support, analytics, and workflow help
 - ⛓️ **Blockchain Agri-Food Supply Chain** — IoT + smart contracts + React.js for end-to-end traceability
 - 🚁 **NIDAR Autonomous Drone** — real-time person detection using YOLOv8n + OpenCV at 15 FPS on edge hardware
 
@@ -76,6 +78,20 @@ A **live, deployed AI web app** with 3 intelligent modules:
 - 💞 **Compatibility Scorer** — behavioural questionnaire to analyse partner compatibility
 
 Built on custom **LLM prompt pipelines** with context-aware persona tuning. Deployed on Vercel.
+
+---
+
+### 🧠 [Vyaparmitra — AI-Assisted Business Platform](https://vyaparmitra.lovable.app/)
+> React.js · Node.js · AI APIs · LLM Integration
+
+An **AI-powered platform for small businesses** designed to simplify everyday operations and support decision-making.
+
+- 🤖 **Customer Query Handling** — helps answer common business and customer queries
+- 📊 **Business Insights** — supports basic analytics and information summarisation
+- ⚡ **Workflow Assistance** — improves routine operations with AI-assisted recommendations
+- 🧠 **Prompt-Engineered Flows** — built for practical, reliable outputs for non-technical users
+
+Designed with a responsive interface and modular architecture to support future AI tools and business automation.
 
 ---
 
